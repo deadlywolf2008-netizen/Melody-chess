@@ -1,0 +1,6 @@
+{
+  "name": "Zen Chess",
+  "description": "An elegant online-simulated chess game with customizable boards, built-in lofi music synthesizer, and a minimalist player statistics dashboard with rating history visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
